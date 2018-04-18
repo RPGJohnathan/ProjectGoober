@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 ﻿Log file open, 04/17/18 20:54:53
+=======
+<<<<<<< HEAD
+﻿Log file open, 04/12/18 12:35:21
+=======
+﻿Log file open, 04/13/18 22:32:07
+>>>>>>> 602bfc8f2e49e03719d3f4dd287e548bb692839b
+>>>>>>> parent of a2f5f5e... Environment
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +15,30 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: ProjectGoober
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogInit: Display: RandInit(-1505888436) SRandInit(-1505888436).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.398295
+=======
+<<<<<<< HEAD
+LogInit: Display: RandInit(525179817) SRandInit(525179817).
+=======
+LogInit: Display: RandInit(1297206593) SRandInit(1297206593).
+>>>>>>> 602bfc8f2e49e03719d3f4dd287e548bb692839b
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+<<<<<<< HEAD
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.875480
+=======
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.306355
+>>>>>>> 602bfc8f2e49e03719d3f4dd287e548bb692839b
+>>>>>>> parent of a2f5f5e... Environment
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +194,15 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.864s to configure plugins.
+=======
+<<<<<<< HEAD
+LogStreaming: Display: Took  4.358s to configure plugins.
+=======
+LogStreaming: Display: Took  1.319s to configure plugins.
+>>>>>>> 602bfc8f2e49e03719d3f4dd287e548bb692839b
+>>>>>>> parent of a2f5f5e... Environment
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -188,7 +222,7 @@ LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: WinSock: I am DESKTOP-PE48U98 (192.168.1.4:0)
+LogInit: WinSock: I am DESKTOP-TMK6QLM (192.168.1.6:0)
 LogInit: Build: ++UE4+Release-4.19-CL-3989454
 LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
 LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
@@ -216,6 +250,7 @@ LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.19
+<<<<<<< HEAD
 LogInit: Command Line: -EpicPortal 
 LogInit: Base Directory: D:/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
@@ -816,3 +851,1560 @@ LogInit: Object subsystem initialized
 [2018.04.18-04.01.47:069][684]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.04.18-04.01.47:090][684]LogExit: Exiting.
 [2018.04.18-04.01.47:121][684]Log file closed, 04/17/18 21:01:47
+=======
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+<<<<<<< HEAD
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.12-19.35.26:685][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.12-19.35.26:685][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.12-19.35.26:817][  0]LogInit: Computer: DESKTOP-JHVEAH7
+[2018.04.12-19.35.26:817][  0]LogInit: User: lashe
+[2018.04.12-19.35.26:817][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.12-19.35.26:817][  0]LogInit: High frequency timer resolution =3.433158 MHz
+[2018.04.12-19.35.26:818][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.04.12-19.35.26:818][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.12-19.35.26:818][  0]LogMemory: Process Physical Memory: 277.06 MB used, 277.06 MB peak
+[2018.04.12-19.35.26:818][  0]LogMemory: Process Virtual Memory: 264.77 MB used, 264.77 MB peak
+[2018.04.12-19.35.26:818][  0]LogMemory: Physical Memory: 5425.02 MB used,  10940.54 MB free, 16365.55 MB total
+[2018.04.12-19.35.26:818][  0]LogMemory: Virtual Memory: 698.09 MB used,  10940.54 MB free, 134217728.00 MB total
+[2018.04.12-19.35.27:182][  0]LogInit: Using OS detected language (en-US).
+[2018.04.12-19.35.27:182][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.12-19.35.27:473][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.12-19.35.28:495][  0]LogStreaming: Display: Took  1.313s to EndInitTextLocalization.
+[2018.04.12-19.35.28:496][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.12-19.35.28:785][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.12-19.35.28:785][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.12-19.35.33:154][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.12-19.35.33:196][  0]LogD3D11RHI:    0. 'AMD Radeon R7 200 Series' (Feature Level 11_0)
+[2018.04.12-19.35.33:196][  0]LogD3D11RHI:       2028/0/8182 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.04.12-19.35.33:199][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.12-19.35.33:199][  0]LogD3D11RHI:       0/0/8182 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.12-19.35.33:199][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.12-19.35.33:208][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.12-19.35.33:208][  0]LogD3D11RHI:     GPU DeviceId: 0x6610 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.12-19.35.33:208][  0]LogWindows: EnumDisplayDevices:
+[2018.04.12-19.35.33:208][  0]LogWindows:    0. 'AMD Radeon R7 200 Series' (P:1 D:1)
+[2018.04.12-19.35.33:209][  0]LogWindows:    1. 'AMD Radeon R7 200 Series' (P:0 D:1)
+[2018.04.12-19.35.33:209][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.12-19.35.33:209][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 200 Series
+[2018.04.12-19.35.33:209][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.12-19.35.33:209][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.12-19.35.33:209][  0]LogRHI: Texture pool is 1420 MB (70% of 2028 MB)
+[2018.04.12-19.35.33:267][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.12-19.35.33:287][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.04.12-19.35.33:289][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Intermediate/Shaders/WorkingDirectory/2776/).
+[2018.04.12-19.35.33:289][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lashe/AppData/Local/Temp/UnrealShaderWorkingDir/1F283E954570DA073CA0F6A4A731CA62/'.
+[2018.04.12-19.35.34:899][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.12-19.35.34:922][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.12-19.35.34:946][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.12-19.35.34:970][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.12-19.35.35:018][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.12-19.35.35:041][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.12-19.35.35:065][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.12-19.35.35:088][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.12-19.35.35:100][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.12-19.35.35:121][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.12-19.35.35:143][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.12-19.35.35:163][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.12-19.35.35:183][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.12-19.35.35:202][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.12-19.35.35:222][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.12-19.35.35:266][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.12-19.35.35:266][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.12-19.35.35:306][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.12-19.35.35:309][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.12-19.35.35:430][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.12-19.35.35:449][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.12-19.35.35:469][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.12-19.35.35:490][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.12-19.35.35:513][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.12-19.35.35:550][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.12-19.35.35:550][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.12-19.35.36:399][  0]LogXGEController: Cleaning working directory: C:/Users/lashe/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.12-19.35.36:400][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.12-19.35.36:400][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.12-19.35.36:400][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.12-19.35.40:866][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.12-19.35.41:446][  0]LogDerivedDataCache: Loaded boot cache 0.58s 74MB C:/Users/lashe/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.12-19.35.41:446][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lashe/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.12-19.35.41:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.12-19.35.41:447][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.12-19.35.41:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.12-19.35.41:447][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.12-19.35.41:504][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.12-19.35.41:532][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lashe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.12-19.35.41:551][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.12-19.35.41:551][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.12-19.35.41:607][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.12-19.35.41:607][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.12-19.35.48:608][  0]LogAssetRegistry: FAssetRegistry took 0.0294 seconds to start up
+[2018.04.12-19.35.49:189][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.12-19.35.50:696][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.12-19.35.50:701][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.12-19.35.50:701][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.12-19.35.50:701][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.12-19.35.50:701][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.12-19.35.50:701][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.12-19.35.50:905][  0]LogNetVersion: ProjectGoober , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3564167533)
+[2018.04.12-19.35.54:304][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.141491 seconds
+[2018.04.12-19.35.54:312][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.12-19.35.54:312][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.12-19.35.54:312][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.12-19.36.18:360][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.12-19.36.18:404][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.12-19.36.19:113][  0]SourceControl: Source control is disabled
+[2018.04.12-19.36.20:890][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.12-19.36.21:152][  0]LogOcInput: OculusInput pre-init called
+[2018.04.12-19.36.21:539][  0]LogEngine: Initializing Engine...
+[2018.04.12-19.36.21:541][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.12-19.36.21:543][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.12-19.36.21:543][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.12-19.36.22:542][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.12-19.36.22:566][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.12-19.36.22:590][  0]LogInit: FAudioDevice initialized.
+[2018.04.12-19.36.22:741][  0]LogDerivedDataCache: Saved boot cache 0.15s 74MB C:/Users/lashe/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.12-19.36.22:762][  0]LogInit: Texture streaming: Enabled
+[2018.04.12-19.36.22:792][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.12-19.36.22:818][  0]LogInit: Transaction tracking system initialized
+[2018.04.12-19.36.22:858][  0]BlueprintLog: New page: Editor Load
+[2018.04.12-19.36.23:006][  0]LocalizationService: Localization service is disabled
+[2018.04.12-19.36.23:477][  0]LogConsoleResponse: Display: 
+[2018.04.12-19.36.26:703][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.12-19.36.26:703][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.12-19.36.26:703][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.12-19.36.26:703][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.12-19.36.26:703][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.12-19.36.26:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/' took 0.02s
+[2018.04.12-19.36.28:614][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.12-19.36.28:645][  0]LightingResults: New page: Lighting Build
+[2018.04.12-19.36.28:650][  0]MapCheck: New page: Map Check
+[2018.04.12-19.36.28:651][  0]LightingResults: New page: Lighting Build
+[2018.04.12-19.36.33:115][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [24.744856ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.04.12-19.36.33:325][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.12-19.36.33:377][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.12-19.36.33:419][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.12-19.36.33:515][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95.96ms to complete.
+[2018.04.12-19.36.33:515][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.901
+[2018.04.12-19.36.33:815][  0]LogCollectionManager: Loaded 0 collections in 0.004124 seconds
+[2018.04.12-19.36.33:862][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Saved/Collections/' took 0.01s
+[2018.04.12-19.36.33:862][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/Developers/lashe/Collections/' took 0.01s
+[2018.04.12-19.36.33:862][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/Collections/' took 0.01s
+[2018.04.12-19.36.33:862][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.12-19.36.33:881][  0]LogContentBrowser: Native class hierarchy populated in 0.0183 seconds. Added 2452 classes and 558 folders.
+[2018.04.12-19.36.33:892][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.12-19.36.35:864][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.12-19.36.35:874][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.12-19.36.35:924][  0]LogSlate: Took 0.018411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.12-19.36.35:936][  0]LogSlate: Took 0.009123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.12-19.36.35:955][  0]LogSlate: Took 0.011500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.12-19.36.36:346][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 9 NumSamples 1 (Frame:1).
+[2018.04.12-19.36.36:556][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.12-19.36.36:556][  0]LogLoad: (Engine Initialization) Total time: 91.31 seconds
+[2018.04.12-19.36.36:556][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.12-19.36.36:924][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.04.12-19.36.37:064][  0]LogSlate: Took 0.016368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.12-19.36.37:918][  3]LogAssetRegistry: Asset discovery search completed in 49.3325 seconds
+[2018.04.12-19.36.37:925][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.12-19.36.37:925][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000158 seconds (updated 0 objects)
+[2018.04.12-19.37.15:558][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.12-19.39.16:408][386]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.12-19.39.17:050][386]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.04.12-19.39.18:587][386]LogSlate: Took 0.021024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.12-19.39.21:644][490]LogSlate: Took 0.010837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.12-19.40.05:116][252]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.12-19.40.08:741][366]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2018.04.12-19.40.08:748][366]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2018.04.12-19.40.10:178][428]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.12-19.40.10:203][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.12-19.40.10:204][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-19.40.10:227][428]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 12, 2018, 5:40:10 AM)
+[2018.04.12-19.40.10:227][428]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.12-19.40.10:280][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052786s)
+[2018.04.12-19.40.10:282][428]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.12-19.40.10:282][428]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2018.04.12-19.40.10:282][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.054706s)
+[2018.04.12-19.40.10:347][428]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.12-19.40.10:366][428]LogInit: FAudioDevice initialized.
+[2018.04.12-19.40.10:427][428]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.12-19.40.10:431][428]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.12-12.40.10
+[2018.04.12-19.40.10:431][428]LogWorld: Bringing up level for play took: 0.002172
+[2018.04.12-19.40.10:439][428]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.12-19.40.10:440][428]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.404
+[2018.04.12-19.40.10:441][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.12-19.40.15:176][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2018.04.12-19.40.20:181][174]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2018.04.12-19.40.25:184][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 25
+[2018.04.12-19.40.30:187][963]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0
+[2018.04.12-19.40.30:200][964]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You Died
+[2018.04.12-19.40.33:438][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.12-19.40.33:481][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.12-19.40.37:594][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.12-19.47.02:750][264]LogSavePackage: Save=184.77ms
+[2018.04.12-19.47.02:750][264]LogSavePackage: Moving '../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Saved/ThirdPersonExampleMap_Auto14E922087402E7571539198A1D2FAB885.tmp' to '../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.04.12-19.47.02:753][264]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.04.12-19.47.02:757][264]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.289
+[2018.04.12-19.47.02:757][264]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.289
+[2018.04.12-19.47.02:759][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.04.12-19.47.02:782][264]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.04.12-19.47.02:782][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.04.12-19.47.02:892][264]LogSavePackage: Save=89.59ms
+[2018.04.12-19.47.02:892][264]LogSavePackage: Moving '../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Saved/ThirdPersonCharacter_Auto179F77F8C4BB190A9B5EAE490C69B3981.tmp' to '../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.04.12-19.47.02:895][264]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.04.12-19.47.02:895][264]LogFileHelpers: Auto-saving content packages took 0.138
+[2018.04.12-19.52.17:842][491]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.12-21.37.52:551][482]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2018.04.12-21.37.52:555][482]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2018.04.12-21.37.54:198][482]LogSlate: Window 'Save Content' being destroyed
+[2018.04.12-21.38.04:623][510]LogSlate: Window 'Save Content' being destroyed
+[2018.04.12-21.38.07:363][519]LogSavePackage: Save=257.37ms
+[2018.04.12-21.38.07:364][519]LogSavePackage: Moving '../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Saved/ThirdPersonExampleMap485903B2439ACBC94E1CFE9D34C4C0C2.tmp' to '../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.12-21.38.07:375][519]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.12-21.38.07:748][519]LogSavePackage: Save=180.52ms
+[2018.04.12-21.38.07:748][519]LogSavePackage: Moving '../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Saved/ThirdPersonExampleMap_BuiltData632F1CDE43CCDA13B4C618991F5CDF2A.tmp' to '../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.12-21.38.07:751][519]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.12-21.38.12:681][531]LogSlate: Window 'Save Content' being destroyed
+[2018.04.12-21.38.12:927][531]LogSavePackage: Save=93.59ms
+[2018.04.12-21.38.12:927][531]LogSavePackage: Moving '../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Saved/ThirdPersonCharacter708805D744E8965F924828AAE817B642.tmp' to '../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.12-21.38.12:936][531]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.12-21.38.21:058][564]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.04.12-21.38.26:691][564]LogSlate: Window 'Submit Files' being destroyed
+[2018.04.12-21.38.28:817][564]LogSourceControl: commit successful: [master d914099] kjf
+[2018.04.12-21.38.28:988][564]SourceControl: [master d914099] kjf
+[2018.04.12-21.38.28:988][564]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2018.04.12-21.38.28:988][564]SourceControl:  rewrite Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (81%)
+[2018.04.12-21.38.29:001][564]SourceControl: Commited [master d914099] kjf.
+[2018.04.12-21.38.35:049][589]LogSlate: Window 'ProjectGoober - Unreal Editor' being destroyed
+[2018.04.12-21.38.35:050][589]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.12-21.38.35:050][589]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.12-21.38.35:329][590]Cmd: QUIT_EDITOR
+[2018.04.12-21.38.36:357][590]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.12-21.38.36:358][590]LogExit: Preparing to exit.
+[2018.04.12-21.38.37:512][590]LogDirectoryWatcher: A directory notification for 'C:/Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/' was aborted.
+[2018.04.12-21.38.37:646][590]LogExit: Editor shut down
+[2018.04.12-21.38.37:688][590]LogExit: Transaction tracking system shut down
+[2018.04.12-21.38.37:846][590]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.12-21.38.37:846][590]LogDirectoryWatcher: A directory notification for '../../../../../../Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/' was aborted.
+[2018.04.12-21.38.37:847][590]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.12-21.38.37:847][590]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.04.12-21.38.37:847][590]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.12-21.38.37:847][590]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.12-21.38.37:847][590]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.12-21.38.37:847][590]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.12-21.38.38:093][590]LogExit: Object subsystem successfully closed.
+[2018.04.12-21.38.38:126][590]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.04.12-21.38.38:137][590]LogD3D11RHI: Shutdown
+[2018.04.12-21.38.38:137][590]LogD3D11RHI: CleanupD3DDevice
+[2018.04.12-21.38.38:148][590]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.12-21.38.38:186][590]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2018.04.12-21.38.38:186][590]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2018.04.12-21.38.38:186][590]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.04.12-21.38.38:186][590]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.04.12-21.38.38:186][590]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.04.12-21.38.38:186][590]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.04.12-21.38.38:194][590]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.04.12-21.38.38:194][590]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.04.12-21.38.38:194][590]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.04.12-21.38.38:194][590]LogDirectoryWatcher: A directory notification for 'C:/Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/Collections/' was aborted.
+[2018.04.12-21.38.38:194][590]LogDirectoryWatcher: A directory notification for 'C:/Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Content/Developers/lashe/Collections/' was aborted.
+[2018.04.12-21.38.38:195][590]LogDirectoryWatcher: A directory notification for 'C:/Users/lashe/OneDrive/Documents/GitHub/ProjectGoober/Saved/Collections/' was aborted.
+[2018.04.12-21.38.38:195][590]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.04.12-21.38.38:195][590]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.04.12-21.38.38:195][590]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.04.12-21.38.38:195][590]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.04.12-21.38.38:195][590]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.04.12-21.38.38:195][590]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.04.12-21.38.38:195][590]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.04.12-21.38.38:195][590]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.04.12-21.38.38:195][590]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.04.12-21.38.38:195][590]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.04.12-21.38.38:195][590]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.04.12-21.38.38:195][590]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.04.12-21.38.38:196][590]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.04.12-21.38.38:197][590]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.04.12-21.38.38:291][590]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.04.12-21.38.38:291][590]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.04.12-21.38.38:291][590]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.04.12-21.38.38:291][590]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.04.12-21.38.38:291][590]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.04.12-21.38.38:291][590]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.04.12-21.38.38:292][590]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.04.12-21.38.38:292][590]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.04.12-21.38.38:292][590]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.04.12-21.38.38:292][590]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.04.12-21.38.38:292][590]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.04.12-21.38.38:292][590]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.04.12-21.38.38:292][590]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.04.12-21.38.38:292][590]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.04.12-21.38.38:293][590]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.04.12-21.38.38:293][590]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.04.12-21.38.38:293][590]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.04.12-21.38.38:293][590]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.04.12-21.38.38:293][590]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.04.12-21.38.38:293][590]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.04.12-21.38.38:293][590]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.04.12-21.38.38:347][590]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.04.12-21.38.38:347][590]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.04.12-21.38.38:347][590]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.04.12-21.38.38:347][590]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.04.12-21.38.38:347][590]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.04.12-21.38.38:347][590]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.04.12-21.38.38:348][590]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.04.12-21.38.38:348][590]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.04.12-21.38.38:348][590]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.04.12-21.38.38:348][590]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.04.12-21.38.38:359][590]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.04.12-21.38.38:359][590]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.04.12-21.38.38:359][590]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.04.12-21.38.38:360][590]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.04.12-21.38.38:361][590]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.04.12-21.38.38:361][590]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.04.12-21.38.38:361][590]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.04.12-21.38.38:361][590]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.04.12-21.38.38:489][590]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.04.12-21.38.38:490][590]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.04.12-21.38.38:495][590]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.04.12-21.38.38:495][590]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.04.12-21.38.38:495][590]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.04.12-21.38.38:495][590]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.04.12-21.38.38:495][590]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.04.12-21.38.38:495][590]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.04.12-21.38.38:496][590]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.04.12-21.38.38:497][590]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.04.12-21.38.38:497][590]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.04.12-21.38.38:497][590]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.04.12-21.38.38:497][590]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.04.12-21.38.38:497][590]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.04.12-21.38.38:497][590]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.04.12-21.38.38:497][590]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.04.12-21.38.38:497][590]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.04.12-21.38.38:598][590]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.04.12-21.38.38:699][590]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.04.12-21.38.38:699][590]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.04.12-21.38.38:699][590]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.04.12-21.38.38:699][590]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.04.12-21.38.38:699][590]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.04.12-21.38.38:699][590]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.04.12-21.38.38:701][590]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.04.12-21.38.38:701][590]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.04.12-21.38.38:701][590]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.04.12-21.38.38:701][590]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.04.12-21.38.38:702][590]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.04.12-21.38.38:705][590]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.04.12-21.38.38:705][590]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.04.12-21.38.38:705][590]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.04.12-21.38.38:705][590]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.04.12-21.38.39:353][590]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.04.12-21.38.39:353][590]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.04.12-21.38.39:353][590]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.04.12-21.38.39:354][590]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.04.12-21.38.39:354][590]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.04.12-21.38.39:354][590]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.04.12-21.38.39:354][590]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.04.12-21.38.39:354][590]LogModuleManager: Shutting down and abandoning module Media (225)
+[2018.04.12-21.38.39:360][590]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.04.12-21.38.39:360][590]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.04.12-21.38.39:360][590]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.04.12-21.38.39:360][590]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.04.12-21.38.39:360][590]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.04.12-21.38.39:361][590]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.04.12-21.38.39:361][590]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.04.12-21.38.39:361][590]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.04.12-21.38.39:361][590]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.04.12-21.38.39:361][590]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.04.12-21.38.39:361][590]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.04.12-21.38.39:361][590]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.04.12-21.38.39:361][590]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.04.12-21.38.39:361][590]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.04.12-21.38.39:361][590]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.04.12-21.38.39:361][590]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.04.12-21.38.39:364][590]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.04.12-21.38.39:364][590]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.04.12-21.38.39:364][590]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.04.12-21.38.39:364][590]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.04.12-21.38.39:364][590]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.04.12-21.38.39:364][590]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.04.12-21.38.39:364][590]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.04.12-21.38.39:364][590]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.04.12-21.38.39:365][590]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.04.12-21.38.39:365][590]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.04.12-21.38.39:365][590]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.04.12-21.38.39:365][590]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.04.12-21.38.39:365][590]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.04.12-21.38.39:365][590]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.04.12-21.38.39:365][590]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.04.12-21.38.39:365][590]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.04.12-21.38.39:377][590]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.04.12-21.38.39:400][590]LogDerivedDataCache: Shutdown
+[2018.04.12-21.38.39:400][590]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.04.12-21.38.39:400][590]LogXGEController: Cleaning working directory: C:/Users/lashe/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.12-21.38.39:400][590]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.04.12-21.38.39:401][590]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.04.12-21.38.39:402][590]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.12-21.38.39:403][590]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.12-21.38.39:403][590]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.12-21.38.39:404][590]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B584AA1E4-46BA-A828-CAEC-D9AC0D25C449%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.0-3944462%2B%2B%2BUE4%2BRelease-4.19&UserID=d361de16476b73c4ecf6e39a63b86625%7Ca9ea589229bd44719ecab112c247d7ec%7Ced4233b6-3a2f-45bf-9cad-369f0d2671f5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.12-21.38.39:434][590]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.12-21.38.39:436][590]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.12-21.38.39:437][590]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.12-21.38.39:437][590]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.12-21.38.39:437][590]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.12-21.38.39:437][590]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.12-21.38.39:437][590]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.12-21.38.39:437][590]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.12-21.38.39:442][590]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.12-21.38.39:442][590]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.12-21.38.39:442][590]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.12-21.38.39:442][590]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.12-21.38.39:442][590]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.12-21.38.39:442][590]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.12-21.38.39:442][590]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.12-21.38.39:442][590]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.12-21.38.39:442][590]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.12-21.38.39:442][590]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.12-21.38.39:442][590]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.12-21.38.39:452][590]LogExit: Exiting.
+[2018.04.12-21.38.39:477][590]Log file closed, 04/12/18 14:38:39
+=======
+LogStreaming: Display: Took  0.030s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.14-05.32.08:740][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.14-05.32.08:740][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.14-05.32.08:807][  0]LogInit: Computer: DESKTOP-TMK6QLM
+[2018.04.14-05.32.08:807][  0]LogInit: User: glash
+[2018.04.14-05.32.08:807][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.14-05.32.08:807][  0]LogInit: High frequency timer resolution =2.648436 MHz
+[2018.04.14-05.32.08:808][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.04.14-05.32.08:808][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.14-05.32.08:808][  0]LogMemory: Process Physical Memory: 276.73 MB used, 276.73 MB peak
+[2018.04.14-05.32.08:808][  0]LogMemory: Process Virtual Memory: 264.03 MB used, 264.03 MB peak
+[2018.04.14-05.32.08:808][  0]LogMemory: Physical Memory: 4383.04 MB used,  3759.05 MB free, 8142.09 MB total
+[2018.04.14-05.32.08:808][  0]LogMemory: Virtual Memory: 686.95 MB used,  3759.05 MB free, 134217728.00 MB total
+[2018.04.14-05.32.09:588][  0]LogInit: Using OS detected language (en-US).
+[2018.04.14-05.32.09:588][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.14-05.32.09:796][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.14-05.32.10:593][  0]LogStreaming: Display: Took  1.006s to EndInitTextLocalization.
+[2018.04.14-05.32.10:593][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.14-05.32.11:029][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.14-05.32.11:029][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.14-05.32.13:036][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.14-05.32.13:115][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.04.14-05.32.13:115][  0]LogD3D11RHI:       6061/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.14-05.32.13:117][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.14-05.32.13:117][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.14-05.32.13:117][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.14-05.32.13:135][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.14-05.32.13:135][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.14-05.32.13:135][  0]LogWindows: EnumDisplayDevices:
+[2018.04.14-05.32.13:135][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.04.14-05.32.13:135][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.04.14-05.32.13:135][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.14-05.32.13:135][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.14-05.32.13:136][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.14-05.32.13:136][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.04.14-05.32.13:136][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.14-05.32.13:136][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.14-05.32.13:136][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.04.14-05.32.13:184][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.04.14-05.32.13:184][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.14-05.32.13:184][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.14-05.32.13:209][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.14-05.32.13:260][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Intermediate/Shaders/WorkingDirectory/56960/).
+[2018.04.14-05.32.13:260][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/glash/AppData/Local/Temp/UnrealShaderWorkingDir/3E8E65B647E466C4DAFC06B189811709/'.
+[2018.04.14-05.32.19:399][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.14-05.32.19:420][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.14-05.32.19:438][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.14-05.32.19:459][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.14-05.32.19:512][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.14-05.32.19:531][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.14-05.32.19:551][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.14-05.32.19:579][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.14-05.32.19:591][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.14-05.32.19:609][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.14-05.32.19:628][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.14-05.32.19:647][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.14-05.32.19:667][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.14-05.32.19:686][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.14-05.32.19:706][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.14-05.32.19:746][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.14-05.32.19:746][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.14-05.32.19:783][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.14-05.32.19:796][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.14-05.32.19:878][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.14-05.32.19:895][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.14-05.32.19:915][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.14-05.32.19:934][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.14-05.32.19:954][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.14-05.32.19:992][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.14-05.32.19:992][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.14-05.32.20:487][  0]LogXGEController: Cleaning working directory: C:/Users/glash/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.14-05.32.20:487][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.14-05.32.20:487][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.14-05.32.20:487][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.14-05.32.21:670][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.14-05.32.21:993][  0]LogDerivedDataCache: Loaded boot cache 0.32s 74MB C:/Users/glash/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.14-05.32.21:993][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/glash/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.14-05.32.21:993][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.14-05.32.21:993][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.14-05.32.21:993][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.14-05.32.21:993][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.14-05.32.22:078][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.14-05.32.22:092][  0]LogDerivedDataCache: Using Local data cache path C:/Users/glash/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.14-05.32.22:104][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.14-05.32.22:105][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.14-05.32.22:178][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.14-05.32.22:178][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.14-05.32.24:095][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.04.14-05.32.24:575][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.14-05.32.26:529][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.14-05.32.26:557][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.14-05.32.26:557][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.14-05.32.26:557][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.14-05.32.26:557][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.14-05.32.26:557][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.14-05.32.26:744][  0]LogNetVersion: ProjectGoober , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3564167533)
+[2018.04.14-05.32.29:442][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.183949 seconds
+[2018.04.14-05.32.29:449][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.14-05.32.29:449][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.14-05.32.29:449][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.14-05.32.54:902][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.14-05.32.54:936][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.14-05.32.55:565][  0]SourceControl: Source control is disabled
+[2018.04.14-05.32.55:566][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:566][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.04.14-05.32.55:566][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:566][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.04.14-05.32.55:566][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:566][  0]LogWindows: Warning: URL: C:\Users\glash\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.04.14-05.32.55:567][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:567][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.04.14-05.32.55:567][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:567][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.04.14-05.32.55:567][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:567][  0]LogWindows: Warning: URL: C:\Users\glash\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.04.14-05.32.55:567][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:567][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.04.14-05.32.55:592][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:592][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.04.14-05.32.55:593][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:593][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.04.14-05.32.55:593][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:593][  0]LogWindows: Warning: URL: C:\Users\glash\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.04.14-05.32.55:593][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:593][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.04.14-05.32.55:593][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:593][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.04.14-05.32.55:593][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:593][  0]LogWindows: Warning: URL: C:\Users\glash\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.04.14-05.32.55:593][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:593][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.04.14-05.32.55:615][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:615][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.04.14-05.32.55:616][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:616][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.04.14-05.32.55:616][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:616][  0]LogWindows: Warning: URL: C:\Users\glash\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.04.14-05.32.55:616][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:616][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.04.14-05.32.55:616][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:616][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.04.14-05.32.55:616][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:617][  0]LogWindows: Warning: URL: C:\Users\glash\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.04.14-05.32.55:617][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.32.55:617][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.04.14-05.32.56:299][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.14-05.32.56:601][  0]LogOcInput: OculusInput pre-init called
+[2018.04.14-05.32.56:804][  0]LogEngine: Initializing Engine...
+[2018.04.14-05.32.56:813][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.14-05.32.56:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.14-05.32.56:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.14-05.32.57:461][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.14-05.32.57:532][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.04.14-05.32.57:595][  0]LogInit: FAudioDevice initialized.
+[2018.04.14-05.32.57:701][  0]LogDerivedDataCache: Saved boot cache 0.11s 74MB C:/Users/glash/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.14-05.32.57:716][  0]LogInit: Texture streaming: Enabled
+[2018.04.14-05.32.57:773][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.14-05.32.57:800][  0]LogInit: Transaction tracking system initialized
+[2018.04.14-05.32.57:910][  0]BlueprintLog: New page: Editor Load
+[2018.04.14-05.32.58:224][  0]LocalizationService: Localization service is disabled
+[2018.04.14-05.32.58:501][  0]LogConsoleResponse: Display: 
+[2018.04.14-05.33.00:394][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.14-05.33.00:394][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.14-05.33.00:394][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.14-05.33.00:394][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.14-05.33.00:394][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.14-05.33.00:484][  0]LogFileCache: Scanning file cache for directory 'D:/PersonalProjects/ProjectGoober/ProjectGoober/Content/' took 0.01s
+[2018.04.14-05.33.01:346][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.33.01:346][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.04.14-05.33.01:346][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.33.01:346][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.04.14-05.33.01:346][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.33.01:346][  0]LogWindows: Warning: URL: C:\Users\glash\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.04.14-05.33.01:346][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.33.01:346][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.04.14-05.33.01:346][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.33.01:346][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.04.14-05.33.01:347][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.33.01:347][  0]LogWindows: Warning: URL: C:\Users\glash\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.04.14-05.33.01:347][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.04.14-05.33.01:347][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.04.14-05.33.01:347][  0]Cmd: MAP LOAD FILE="../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.14-05.33.01:347][  0]LightingResults: New page: Lighting Build
+[2018.04.14-05.33.01:350][  0]MapCheck: New page: Map Check
+[2018.04.14-05.33.01:350][  0]LightingResults: New page: Lighting Build
+[2018.04.14-05.33.04:159][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [32.690235ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.04.14-05.33.04:510][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.14-05.33.04:573][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.14-05.33.04:588][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.14-05.33.04:646][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.513ms to complete.
+[2018.04.14-05.33.04:646][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.299
+[2018.04.14-05.33.04:986][  0]LogCollectionManager: Loaded 0 collections in 0.001041 seconds
+[2018.04.14-05.33.05:035][  0]LogFileCache: Scanning file cache for directory 'D:/PersonalProjects/ProjectGoober/ProjectGoober/Saved/Collections/' took 0.01s
+[2018.04.14-05.33.05:035][  0]LogFileCache: Scanning file cache for directory 'D:/PersonalProjects/ProjectGoober/ProjectGoober/Content/Developers/glash/Collections/' took 0.01s
+[2018.04.14-05.33.05:035][  0]LogFileCache: Scanning file cache for directory 'D:/PersonalProjects/ProjectGoober/ProjectGoober/Content/Collections/' took 0.01s
+[2018.04.14-05.33.05:035][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.14-05.33.05:045][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2452 classes and 558 folders.
+[2018.04.14-05.33.05:064][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.14-05.33.05:649][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.14-05.33.05:659][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.14-05.33.05:729][  0]LogSlate: Took 0.018387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.14-05.33.05:793][  0]LogSlate: Took 0.062898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.14-05.33.05:819][  0]LogSlate: Took 0.021144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.14-05.33.06:118][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.14-05.33.06:367][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.14-05.33.06:367][  0]LogLoad: (Engine Initialization) Total time: 64.90 seconds
+[2018.04.14-05.33.06:367][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.14-05.33.06:396][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.14-05.33.06:507][  0]LogSlate: Took 0.009104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.14-05.33.06:582][  1]LogAssetRegistry: Asset discovery search completed in 42.5090 seconds
+[2018.04.14-05.33.06:584][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.14-05.33.06:584][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2018.04.14-05.33.34:334][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-05.33.48:696][773]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.04.14-05.33.58:494][899]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume3)
+[2018.04.14-05.34.01:293][208]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2018.04.14-05.34.06:959][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RamenHouse2)
+[2018.04.14-05.34.13:688][538]Cmd: DELETE
+[2018.04.14-05.34.13:688][538]Cmd: ACTOR DELETE
+[2018.04.14-05.34.13:693][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-05.34.13:694][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-05.34.13:694][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-05.34.13:694][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-05.34.13:694][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.14-05.34.13:708][538]LogEditorActor: Deleted 5 Actors (0.020 secs)
+[2018.04.14-05.34.17:976][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-05.34.19:757][218]MapCheck: New page: Map Check
+[2018.04.14-05.34.19:770][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-05.34.19:812][218]LightingResults: New page: Lighting Build - Apr 13, 2018, 3:34:19 PM
+[2018.04.14-05.34.19:956][218]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.04.14-05.34.20:379][218]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.04.14-05.34.20:404][218]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.04.14-05.34.21:435][218]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.04.14-05.34.21:435][218]LogSwarmInterface: [TryOpenConnection] Local Process ID is 56960
+[2018.04.14-05.34.24:087][218]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.04.14-05.34.24:087][218]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.04.14-05.34.24:087][218]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.04.14-05.34.24:087][218]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.04.14-05.34.24:087][218]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.04.14-05.34.24:341][218]LogEditorBuildUtils: Build time 0:04
+[2018.04.14-05.34.32:105][602]Job is a success!
+[2018.04.14-05.34.32:128][603]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.14-05.34.32:130][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-05.34.32:172][603]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2018.04.14-05.34.32:172][603]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.04.14-05.34.32:172][603]LogVolumetricLightmapImport:      BrickData 260x5x5 = 0.3Mb
+[2018.04.14-05.34.32:172][603]LogVolumetricLightmapImport:      Bricks at Level
+[2018.04.14-05.34.32:172][603]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2018.04.14-05.34.32:172][603]LogVolumetricLightmapImport:          1: 7.7% covering 6.3% of volume
+[2018.04.14-05.34.32:172][603]LogVolumetricLightmapImport:          2: 90.4% covering 1.1% of volume
+[2018.04.14-05.34.32:966][603]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.04.14-05.34.32:966][603]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.04.14-05.34.32:966][603]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.04.14-05.34.32:966][603]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.04.14-05.34.32:966][603]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.04.14-05.34.32:967][603]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.04.14-05.34.33:087][603]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.04.14-05.34.33:087][603]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2018.04.14-05.34.33:140][603]Lightmass on DESKTOP-TMK6QLM: 7.47 sec total, 277 ms importing, 30 ms setup, 1.17 sec photons, 5.90 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 23.5 sec total, 8.54 sec processing.
+[2018.04.14-05.34.33:172][603]LogStaticLightingSystem: Illumination: 13.3 sec (766 ms encoding lightmaps, 109 ms encoding shadowmaps)
+[2018.04.14-05.34.33:173][603]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.04.14-05.34.33:173][603]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.04.14-05.34.34:111][603]DumpUnbuiltLightIteractions
+[2018.04.14-05.34.34:111][603]Lights with unbuilt interactions: 0
+[2018.04.14-05.34.34:111][603]
+[2018.04.14-05.34.34:111][603]Primitives with unbuilt interactions: 0
+[2018.04.14-05.34.34:120][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.14-05.34.34:188][604]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.04.14-05.34.34:188][604]MapCheck: New page: ThirdPersonExampleMap - Apr 13, 2018, 3:34:34 PM
+[2018.04.14-05.34.34:248][604]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.276ms to complete.
+[2018.04.14-05.34.37:604][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-05.34.38:232][998]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.04.14-05.34.56:256][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.14-05.35.44:725][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Door.fbx)
+[2018.04.14-05.35.44:817][980]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.14-05.35.44:818][980]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.14-05.35.44:818][980]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.14-05.35.44:818][980]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.14-05.35.44:818][980]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.14-05.35.44:818][980]LogFbx: ItemName: Model, ItemCount : 1
+[2018.04.14-05.35.44:836][980]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Door.fbx
+[2018.04.14-05.35.44:883][980]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.35.49:807][980]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.14-05.35.49:830][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Jar.fbx)
+[2018.04.14-05.35.49:836][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Lanturn.fbx)
+[2018.04.14-05.35.49:840][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_lanturnline.fbx)
+[2018.04.14-05.35.49:842][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_pillar.fbx)
+[2018.04.14-05.35.49:843][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_pillarpole.fbx)
+[2018.04.14-05.35.49:845][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_pole.fbx)
+[2018.04.14-05.35.49:846][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_slidingdoor.fbx)
+[2018.04.14-05.35.49:848][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Stairs.fbx)
+[2018.04.14-05.35.49:851][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_stool.fbx)
+[2018.04.14-05.35.49:853][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_WindowL.fbx)
+[2018.04.14-05.35.49:896][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_windowS.fbx)
+[2018.04.14-05.35.49:899][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\RamenRoof_Awning.fbx)
+[2018.04.14-05.35.49:902][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\RamenRoof_Fence.fbx)
+[2018.04.14-05.35.49:908][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\RamenRoof_FenceMiddle.fbx)
+[2018.04.14-05.35.49:911][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\RamenRoof_FencePost.fbx)
+[2018.04.14-05.35.49:915][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_balcony.fbx)
+[2018.04.14-05.35.49:918][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Bar.fbx)
+[2018.04.14-05.35.49:958][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_base.fbx)
+[2018.04.14-05.35.49:960][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_bowl.fbx)
+[2018.04.14-05.35.49:961][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Crate.fbx)
+[2018.04.14-05.35.49:962][980]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_curtain.fbx)
+[2018.04.14-05.36.17:226][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Bar.fbx)
+[2018.04.14-05.36.17:235][322]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.14-05.36.17:235][322]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.14-05.36.17:235][322]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.14-05.36.17:235][322]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.04.14-05.36.17:235][322]LogFbx: ItemName: Model, ItemCount : 2
+[2018.04.14-05.36.17:235][322]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.14-05.36.17:235][322]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.14-05.36.17:242][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Bar.fbx
+[2018.04.14-05.36.17:248][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.48:580][322]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.14-05.36.48:627][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Bar.fbx
+[2018.04.14-05.36.48:634][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.48:639][322]LogMaterial: Missing cached shader map for material Ramen_Bar1, compiling. 
+[2018.04.14-05.36.48:676][322]LogFbx: Warning: Triangulating static mesh polySurface25
+[2018.04.14-05.36.48:684][322]LogStaticMesh: Building static mesh Ramen_Bar...
+[2018.04.14-05.36.48:692][322]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.14-05.36.48:693][322]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.14-05.36.48:693][322]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.14-05.36.48:693][322]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Town/RamenHouse/Pieces/Ramen_Bar.Ramen_Bar
+[2018.04.14-05.36.48:702][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.48:716][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_base.fbx)
+[2018.04.14-05.36.48:726][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_base.fbx
+[2018.04.14-05.36.48:732][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.48:739][322]LogMaterial: Missing cached shader map for material Ramen_Base1, compiling. 
+[2018.04.14-05.36.48:756][322]LogMaterial: Missing cached shader map for material RamenRoof, compiling. 
+[2018.04.14-05.36.48:764][322]LogFbx: Warning: Triangulating static mesh pCube374
+[2018.04.14-05.36.48:770][322]LogStaticMesh: Building static mesh Ramen_base...
+[2018.04.14-05.36.48:781][322]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Town/RamenHouse/Pieces/Ramen_base.Ramen_base
+[2018.04.14-05.36.48:789][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.48:793][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_bowl.fbx)
+[2018.04.14-05.36.48:802][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_bowl.fbx
+[2018.04.14-05.36.48:809][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.48:812][322]LogMaterial: Missing cached shader map for material Ramen_bowl1, compiling. 
+[2018.04.14-05.36.48:821][322]LogFbx: Warning: Triangulating static mesh pCube232
+[2018.04.14-05.36.48:826][322]LogStaticMesh: Building static mesh Ramen_bowl...
+[2018.04.14-05.36.48:862][322]LogStaticMesh: Built static mesh [0.04s] /Game/Art/Town/RamenHouse/Pieces/Ramen_bowl.Ramen_bowl
+[2018.04.14-05.36.48:871][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.48:876][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Crate.fbx)
+[2018.04.14-05.36.48:885][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Crate.fbx
+[2018.04.14-05.36.48:891][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.48:895][322]LogMaterial: Missing cached shader map for material Ramen_crate1, compiling. 
+[2018.04.14-05.36.48:903][322]LogFbx: Warning: Triangulating static mesh pCube236
+[2018.04.14-05.36.48:907][322]LogStaticMesh: Building static mesh Ramen_Crate...
+[2018.04.14-05.36.48:916][322]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Town/RamenHouse/Pieces/Ramen_Crate.Ramen_Crate
+[2018.04.14-05.36.48:926][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.48:929][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_curtain.fbx)
+[2018.04.14-05.36.48:937][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_curtain.fbx
+[2018.04.14-05.36.48:944][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.48:947][322]LogMaterial: Missing cached shader map for material Ramen_curtan, compiling. 
+[2018.04.14-05.36.48:956][322]LogFbx: Warning: Triangulating static mesh pCube254
+[2018.04.14-05.36.48:962][322]LogStaticMesh: Building static mesh Ramen_curtain...
+[2018.04.14-05.36.48:969][322]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Town/RamenHouse/Pieces/Ramen_curtain.Ramen_curtain
+[2018.04.14-05.36.48:979][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.48:982][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Door.fbx)
+[2018.04.14-05.36.48:992][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Door.fbx
+[2018.04.14-05.36.48:998][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:004][322]LogMaterial: Missing cached shader map for material Ramen_door1, compiling. 
+[2018.04.14-05.36.49:013][322]LogFbx: Warning: Triangulating static mesh pCube183
+[2018.04.14-05.36.49:017][322]LogStaticMesh: Building static mesh Ramen_Door...
+[2018.04.14-05.36.49:022][322]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Town/RamenHouse/Pieces/Ramen_Door.Ramen_Door
+[2018.04.14-05.36.49:030][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:033][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Jar.fbx)
+[2018.04.14-05.36.49:042][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Jar.fbx
+[2018.04.14-05.36.49:049][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:052][322]LogMaterial: Missing cached shader map for material Ramen_jar1, compiling. 
+[2018.04.14-05.36.49:061][322]LogFbx: Warning: Triangulating static mesh pCylinder16
+[2018.04.14-05.36.49:071][322]LogStaticMesh: Building static mesh Ramen_Jar...
+[2018.04.14-05.36.49:080][322]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Town/RamenHouse/Pieces/Ramen_Jar.Ramen_Jar
+[2018.04.14-05.36.49:091][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:095][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Lanturn.fbx)
+[2018.04.14-05.36.49:103][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Lanturn.fbx
+[2018.04.14-05.36.49:110][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:114][322]LogMaterial: Missing cached shader map for material Ramen_lantern, compiling. 
+[2018.04.14-05.36.49:123][322]LogFbx: Warning: Triangulating static mesh polySurface309
+[2018.04.14-05.36.49:128][322]LogStaticMesh: Building static mesh Ramen_Lanturn...
+[2018.04.14-05.36.49:133][322]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Town/RamenHouse/Pieces/Ramen_Lanturn.Ramen_Lanturn
+[2018.04.14-05.36.49:142][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:146][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_lanturnline.fbx)
+[2018.04.14-05.36.49:155][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_lanturnline.fbx
+[2018.04.14-05.36.49:175][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:188][322]LogMaterial: Missing cached shader map for material Ramen_lantern1, compiling. 
+[2018.04.14-05.36.49:200][322]LogFbx: Warning: Triangulating static mesh polySurface310
+[2018.04.14-05.36.49:201][322]LogStaticMesh: Building static mesh Ramen_lanturnline...
+[2018.04.14-05.36.49:204][322]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Town/RamenHouse/Pieces/Ramen_lanturnline.Ramen_lanturnline
+[2018.04.14-05.36.49:211][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:215][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_pillar.fbx)
+[2018.04.14-05.36.49:224][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_pillar.fbx
+[2018.04.14-05.36.49:230][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:234][322]LogMaterial: Missing cached shader map for material Ramen_pillar1, compiling. 
+[2018.04.14-05.36.49:242][322]LogFbx: Warning: Triangulating static mesh polySurface276
+[2018.04.14-05.36.49:244][322]LogStaticMesh: Building static mesh Ramen_pillar...
+[2018.04.14-05.36.49:249][322]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Town/RamenHouse/Pieces/Ramen_pillar.Ramen_pillar
+[2018.04.14-05.36.49:258][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:261][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_pillarpole.fbx)
+[2018.04.14-05.36.49:271][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_pillarpole.fbx
+[2018.04.14-05.36.49:277][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:281][322]LogMaterial: Missing cached shader map for material Ramen_pillar2, compiling. 
+[2018.04.14-05.36.49:290][322]LogFbx: Warning: Triangulating static mesh polySurface273
+[2018.04.14-05.36.49:292][322]LogStaticMesh: Building static mesh Ramen_pillarpole...
+[2018.04.14-05.36.49:300][322]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Town/RamenHouse/Pieces/Ramen_pillarpole.Ramen_pillarpole
+[2018.04.14-05.36.49:308][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:311][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_pole.fbx)
+[2018.04.14-05.36.49:320][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_pole.fbx
+[2018.04.14-05.36.49:328][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:338][322]LogMaterial: Missing cached shader map for material Ramen_Bar2, compiling. 
+[2018.04.14-05.36.49:347][322]LogFbx: Warning: Triangulating static mesh polySurface26
+[2018.04.14-05.36.49:348][322]LogStaticMesh: Building static mesh Ramen_pole...
+[2018.04.14-05.36.49:351][322]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Town/RamenHouse/Pieces/Ramen_pole.Ramen_pole
+[2018.04.14-05.36.49:360][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:365][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_slidingdoor.fbx)
+[2018.04.14-05.36.49:373][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_slidingdoor.fbx
+[2018.04.14-05.36.49:379][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:383][322]LogMaterial: Missing cached shader map for material Ramen_slidingdoor1, compiling. 
+[2018.04.14-05.36.49:392][322]LogFbx: Warning: Triangulating static mesh pCube273
+[2018.04.14-05.36.49:396][322]LogStaticMesh: Building static mesh Ramen_slidingdoor...
+[2018.04.14-05.36.49:429][322]LogStaticMesh: Built static mesh [0.03s] /Game/Art/Town/RamenHouse/Pieces/Ramen_slidingdoor.Ramen_slidingdoor
+[2018.04.14-05.36.49:439][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:442][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Stairs.fbx)
+[2018.04.14-05.36.49:451][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_Stairs.fbx
+[2018.04.14-05.36.49:458][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:463][322]LogMaterial: Missing cached shader map for material Ramen_stairs1, compiling. 
+[2018.04.14-05.36.49:474][322]LogFbx: Warning: Triangulating static mesh polySurface82
+[2018.04.14-05.36.49:483][322]LogStaticMesh: Building static mesh Ramen_Stairs...
+[2018.04.14-05.36.49:513][322]LogStaticMesh: Built static mesh [0.03s] /Game/Art/Town/RamenHouse/Pieces/Ramen_Stairs.Ramen_Stairs
+[2018.04.14-05.36.49:522][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:526][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_stool.fbx)
+[2018.04.14-05.36.49:535][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_stool.fbx
+[2018.04.14-05.36.49:541][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:545][322]LogMaterial: Missing cached shader map for material Ramen_bench, compiling. 
+[2018.04.14-05.36.49:554][322]LogFbx: Warning: Triangulating static mesh pCube258
+[2018.04.14-05.36.49:557][322]LogStaticMesh: Building static mesh Ramen_stool...
+[2018.04.14-05.36.49:568][322]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Town/RamenHouse/Pieces/Ramen_stool.Ramen_stool
+[2018.04.14-05.36.49:609][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:612][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_WindowL.fbx)
+[2018.04.14-05.36.49:634][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_WindowL.fbx
+[2018.04.14-05.36.49:643][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:648][322]LogMaterial: Missing cached shader map for material Ramen_windowL1, compiling. 
+[2018.04.14-05.36.49:665][322]LogFbx: Warning: Triangulating static mesh polySurface24
+[2018.04.14-05.36.49:672][322]LogStaticMesh: Building static mesh Ramen_WindowL...
+[2018.04.14-05.36.49:682][322]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Town/RamenHouse/Pieces/Ramen_WindowL.Ramen_WindowL
+[2018.04.14-05.36.49:700][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:704][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_windowS.fbx)
+[2018.04.14-05.36.49:713][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_windowS.fbx
+[2018.04.14-05.36.49:719][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:723][322]LogMaterial: Missing cached shader map for material Ramen_window1, compiling. 
+[2018.04.14-05.36.49:740][322]LogFbx: Warning: Triangulating static mesh pCube243
+[2018.04.14-05.36.49:745][322]LogStaticMesh: Building static mesh Ramen_windowS...
+[2018.04.14-05.36.49:757][322]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Town/RamenHouse/Pieces/Ramen_windowS.Ramen_windowS
+[2018.04.14-05.36.49:767][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:770][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\RamenRoof_Awning.fbx)
+[2018.04.14-05.36.49:778][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\RamenRoof_Awning.fbx
+[2018.04.14-05.36.49:785][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:789][322]LogMaterial: Missing cached shader map for material RamenAwning, compiling. 
+[2018.04.14-05.36.49:797][322]LogFbx: Warning: Triangulating static mesh polySurface299
+[2018.04.14-05.36.49:807][322]LogStaticMesh: Building static mesh RamenRoof_Awning...
+[2018.04.14-05.36.49:850][322]LogStaticMesh: Built static mesh [0.04s] /Game/Art/Town/RamenHouse/Pieces/RamenRoof_Awning.RamenRoof_Awning
+[2018.04.14-05.36.49:861][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:865][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\RamenRoof_Fence.fbx)
+[2018.04.14-05.36.49:873][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\RamenRoof_Fence.fbx
+[2018.04.14-05.36.49:880][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:884][322]LogMaterial: Missing cached shader map for material RamenRoofFence, compiling. 
+[2018.04.14-05.36.49:901][322]LogFbx: Warning: Triangulating static mesh pCube345
+[2018.04.14-05.36.49:925][322]LogStaticMesh: Building static mesh RamenRoof_Fence...
+[2018.04.14-05.36.49:962][322]LogStaticMesh: Built static mesh [0.04s] /Game/Art/Town/RamenHouse/Pieces/RamenRoof_Fence.RamenRoof_Fence
+[2018.04.14-05.36.49:976][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.49:980][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\RamenRoof_FenceMiddle.fbx)
+[2018.04.14-05.36.49:989][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\RamenRoof_FenceMiddle.fbx
+[2018.04.14-05.36.49:995][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.49:999][322]LogMaterial: Missing cached shader map for material RamenRoofFence1, compiling. 
+[2018.04.14-05.36.50:013][322]LogFbx: Warning: Triangulating static mesh polySurface295
+[2018.04.14-05.36.50:025][322]LogStaticMesh: Building static mesh RamenRoof_FenceMiddle...
+[2018.04.14-05.36.50:054][322]LogStaticMesh: Built static mesh [0.03s] /Game/Art/Town/RamenHouse/Pieces/RamenRoof_FenceMiddle.RamenRoof_FenceMiddle
+[2018.04.14-05.36.50:062][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.50:065][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\RamenRoof_FencePost.fbx)
+[2018.04.14-05.36.50:074][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\RamenRoof_FencePost.fbx
+[2018.04.14-05.36.50:080][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.50:087][322]LogMaterial: Missing cached shader map for material RamenRoofFence2, compiling. 
+[2018.04.14-05.36.50:096][322]LogFbx: Warning: Triangulating static mesh polySurface297
+[2018.04.14-05.36.50:103][322]LogStaticMesh: Building static mesh RamenRoof_FencePost...
+[2018.04.14-05.36.50:110][322]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Town/RamenHouse/Pieces/RamenRoof_FencePost.RamenRoof_FencePost
+[2018.04.14-05.36.50:119][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.50:122][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_balcony.fbx)
+[2018.04.14-05.36.50:131][322]LogFbx: Loading FBX Scene from D:\PersonalProjects\RPGJonathan\City\RamenHouse\RamenHousePieces\Ramen_balcony.fbx
+[2018.04.14-05.36.50:155][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.14-05.36.50:159][322]LogMaterial: Missing cached shader map for material Ramen_railguard, compiling. 
+[2018.04.14-05.36.50:171][322]LogMaterial: Missing cached shader map for material Ramen_balcony1, compiling. 
+[2018.04.14-05.36.50:180][322]LogFbx: Warning: Triangulating static mesh polySurface123
+[2018.04.14-05.36.50:200][322]LogStaticMesh: Building static mesh Ramen_balcony...
+[2018.04.14-05.36.50:249][322]LogStaticMesh: Built static mesh [0.05s] /Game/Art/Town/RamenHouse/Pieces/Ramen_balcony.Ramen_balcony
+[2018.04.14-05.36.50:263][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.14-05.36.50:883][324]LogShaderCompilers: Display: Shaders left to compile 506
+[2018.04.14-05.36.53:941][422]LogShaderCompilers: Display: Shaders left to compile 496
+[2018.04.14-05.36.54:285][423]LogShaderCompilers: Display: Shaders left to compile 486
+[2018.04.14-05.36.55:478][424]LogShaderCompilers: Display: Shaders left to compile 476
+[2018.04.14-05.36.56:505][425]LogShaderCompilers: Display: Shaders left to compile 466
+[2018.04.14-05.36.58:994][428]LogShaderCompilers: Display: Shaders left to compile 456
+[2018.04.14-05.36.58:995][428]LogShaderCompilers: Display: Shaders left to compile 446
+[2018.04.14-05.36.58:995][428]LogSlate: Window 'Message Log' being destroyed
+[2018.04.14-05.36.59:000][428]LogShaderCompilers: Display: Shaders left to compile 436
+[2018.04.14-05.36.59:004][428]LogSlate: Window 'Message Log' being destroyed
+[2018.04.14-05.37.00:735][428]LogShaderCompilers: Display: Shaders left to compile 426
+[2018.04.14-05.37.01:970][430]LogShaderCompilers: Display: Shaders left to compile 416
+[2018.04.14-05.37.01:970][430]LogShaderCompilers: Display: Shaders left to compile 406
+[2018.04.14-05.37.03:785][432]LogShaderCompilers: Display: Shaders left to compile 396
+[2018.04.14-05.37.04:924][433]LogShaderCompilers: Display: Shaders left to compile 386
+[2018.04.14-05.37.06:023][435]LogShaderCompilers: Display: Shaders left to compile 376
+[2018.04.14-05.37.06:023][435]LogShaderCompilers: Display: Shaders left to compile 366
+[2018.04.14-05.37.07:323][437]LogShaderCompilers: Display: Shaders left to compile 356
+[2018.04.14-05.37.07:750][452]LogShaderCompilers: Display: Shaders left to compile 346
+[2018.04.14-05.37.09:882][455]LogShaderCompilers: Display: Shaders left to compile 336
+[2018.04.14-05.37.10:578][456]LogShaderCompilers: Display: Shaders left to compile 326
+[2018.04.14-05.37.10:807][457]LogShaderCompilers: Display: Shaders left to compile 316
+[2018.04.14-05.37.12:224][458]LogShaderCompilers: Display: Shaders left to compile 306
+[2018.04.14-05.37.12:623][459]LogShaderCompilers: Display: Shaders left to compile 296
+[2018.04.14-05.37.13:723][460]LogShaderCompilers: Display: Shaders left to compile 286
+[2018.04.14-05.37.16:266][461]LogShaderCompilers: Display: Shaders left to compile 276
+[2018.04.14-05.37.16:266][461]LogShaderCompilers: Display: Shaders left to compile 266
+[2018.04.14-05.37.16:289][462]LogShaderCompilers: Display: Shaders left to compile 256
+[2018.04.14-05.37.18:622][466]LogShaderCompilers: Display: Shaders left to compile 246
+[2018.04.14-05.37.19:506][467]LogShaderCompilers: Display: Shaders left to compile 236
+[2018.04.14-05.37.19:506][467]LogShaderCompilers: Display: Shaders left to compile 226
+[2018.04.14-05.37.20:661][468]LogShaderCompilers: Display: Shaders left to compile 216
+[2018.04.14-05.37.21:509][469]LogShaderCompilers: Display: Shaders left to compile 206
+[2018.04.14-05.37.23:288][471]LogShaderCompilers: Display: Shaders left to compile 196
+[2018.04.14-05.37.23:289][471]LogShaderCompilers: Display: Shaders left to compile 186
+[2018.04.14-05.37.24:464][472]LogShaderCompilers: Display: Shaders left to compile 176
+[2018.04.14-05.37.24:530][473]LogShaderCompilers: Display: Shaders left to compile 166
+[2018.04.14-05.37.26:607][474]LogShaderCompilers: Display: Shaders left to compile 156
+[2018.04.14-05.37.26:728][475]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.04.14-05.37.28:008][476]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.04.14-05.37.30:508][478]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.04.14-05.37.30:508][478]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.04.14-05.37.30:509][478]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.04.14-05.37.31:648][479]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.04.14-05.37.32:787][480]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.04.14-05.37.33:346][482]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.04.14-05.37.34:828][483]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.04.14-05.37.35:091][484]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.04.14-05.37.36:557][487]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.04.14-05.37.36:811][488]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.04.14-05.37.38:526][490]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.04.14-05.37.38:608][491]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.14-05.37.40:345][492]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.14-05.38.00:493][254]LogSlate: Window 'Save Content' being destroyed
+[2018.04.14-05.38.00:553][254]LogSavePackage: Save=12.74ms
+[2018.04.14-05.38.00:553][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_balcony67C79DC14F6BE2A02597ED8C1E22C8E1.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_balcony.uasset'
+[2018.04.14-05.38.00:575][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_balcony.uasset
+[2018.04.14-05.38.00:607][254]LogSavePackage: Save=11.63ms
+[2018.04.14-05.38.00:607][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_balcony1A18D09B4465BBC14C0B5A190F5B3C9E5.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_balcony1.uasset'
+[2018.04.14-05.38.00:609][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_balcony1.uasset
+[2018.04.14-05.38.00:624][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Town/RamenHouse/Pieces/Ramen_Bar" FILE="../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Bar.uasset" SILENT=true
+[2018.04.14-05.38.00:648][254]LogSavePackage: Save=11.62ms
+[2018.04.14-05.38.00:648][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_Bar83D601A645A207A32780B1ACC247C8C9.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Bar.uasset'
+[2018.04.14-05.38.00:650][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Bar.uasset
+[2018.04.14-05.38.00:689][254]LogSavePackage: Save=20.30ms
+[2018.04.14-05.38.00:689][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_Bar17869AFE64C5B4BF8879FAC9713089628.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Bar1.uasset'
+[2018.04.14-05.38.00:691][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Bar1.uasset
+[2018.04.14-05.38.00:721][254]LogSavePackage: Save=11.42ms
+[2018.04.14-05.38.00:721][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_Bar2220CA68047ED520FB78F2CA61D88EA4F.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Bar2.uasset'
+[2018.04.14-05.38.00:723][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Bar2.uasset
+[2018.04.14-05.38.00:749][254]LogSavePackage: Save=11.78ms
+[2018.04.14-05.38.00:749][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_base3CDB34DE4C3200CFF77AE7BBF6E71EAC.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_base.uasset'
+[2018.04.14-05.38.00:751][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_base.uasset
+[2018.04.14-05.38.00:779][254]LogSavePackage: Save=11.30ms
+[2018.04.14-05.38.00:779][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_Base19E4F5A374A52C4A63A5D06B3D8079CDD.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Base1.uasset'
+[2018.04.14-05.38.00:781][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Base1.uasset
+[2018.04.14-05.38.00:812][254]LogSavePackage: Save=11.20ms
+[2018.04.14-05.38.00:812][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_benchFC3BCA504EF76954D9BD3790CA7C8D24.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_bench.uasset'
+[2018.04.14-05.38.00:813][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_bench.uasset
+[2018.04.14-05.38.00:842][254]LogSavePackage: Save=11.80ms
+[2018.04.14-05.38.00:842][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_bowlB9A2592647A2DD3043282D9D24D3C3B9.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_bowl.uasset'
+[2018.04.14-05.38.00:844][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_bowl.uasset
+[2018.04.14-05.38.00:871][254]LogSavePackage: Save=11.17ms
+[2018.04.14-05.38.00:871][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_bowl1D19C4C5B40978CCF990BD5BE0AB189A1.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_bowl1.uasset'
+[2018.04.14-05.38.00:873][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_bowl1.uasset
+[2018.04.14-05.38.00:904][254]LogSavePackage: Save=12.40ms
+[2018.04.14-05.38.00:904][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_Crate14BB0E0F43BDAD0C4D48969564AA4639.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Crate.uasset'
+[2018.04.14-05.38.00:905][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Crate.uasset
+[2018.04.14-05.38.00:933][254]LogSavePackage: Save=12.28ms
+[2018.04.14-05.38.00:933][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_crate15DDD544E4E657A6C6D540684DD0207A9.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_crate1.uasset'
+[2018.04.14-05.38.00:935][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_crate1.uasset
+[2018.04.14-05.38.00:963][254]LogSavePackage: Save=12.16ms
+[2018.04.14-05.38.00:963][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_curtainEBC216734C4BD16D2151D8847D6AC799.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_curtain.uasset'
+[2018.04.14-05.38.00:965][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_curtain.uasset
+[2018.04.14-05.38.00:993][254]LogSavePackage: Save=11.91ms
+[2018.04.14-05.38.00:993][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_curtanEB96843B4DA3F3B3A8532FB8915FC1B8.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_curtan.uasset'
+[2018.04.14-05.38.00:995][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_curtan.uasset
+[2018.04.14-05.38.01:025][254]LogSavePackage: Save=11.97ms
+[2018.04.14-05.38.01:025][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_DoorB5E747404E8F4B02573BC391EF574382.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Door.uasset'
+[2018.04.14-05.38.01:027][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Door.uasset
+[2018.04.14-05.38.01:057][254]LogSavePackage: Save=11.02ms
+[2018.04.14-05.38.01:057][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_door18DC8969343847B539B3ED09C68CF5835.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_door1.uasset'
+[2018.04.14-05.38.01:058][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_door1.uasset
+[2018.04.14-05.38.01:072][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Town/RamenHouse/Pieces/Ramen_Jar" FILE="../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Jar.uasset" SILENT=true
+[2018.04.14-05.38.01:098][254]LogSavePackage: Save=24.67ms
+[2018.04.14-05.38.01:098][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_JarC988D6AF450FBC1090EB5D8BAE585D39.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Jar.uasset'
+[2018.04.14-05.38.01:099][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Jar.uasset
+[2018.04.14-05.38.01:131][254]LogSavePackage: Save=11.55ms
+[2018.04.14-05.38.01:131][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_jar1AAB20A5E4368FA0390AFA881657D990E.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_jar1.uasset'
+[2018.04.14-05.38.01:133][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_jar1.uasset
+[2018.04.14-05.38.01:160][254]LogSavePackage: Save=11.12ms
+[2018.04.14-05.38.01:160][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_lantern8AF58A354F8B0C51E2787ABE5D4F5E2A.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_lantern.uasset'
+[2018.04.14-05.38.01:162][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_lantern.uasset
+[2018.04.14-05.38.01:190][254]LogSavePackage: Save=11.48ms
+[2018.04.14-05.38.01:190][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_lantern12D476F414F2100984116C29A2E8E2A7F.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_lantern1.uasset'
+[2018.04.14-05.38.01:192][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_lantern1.uasset
+[2018.04.14-05.38.01:221][254]LogSavePackage: Save=10.68ms
+[2018.04.14-05.38.01:221][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_Lanturn46866DB94097558A8090A0A45FB1C4D1.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Lanturn.uasset'
+[2018.04.14-05.38.01:223][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Lanturn.uasset
+[2018.04.14-05.38.01:249][254]LogSavePackage: Save=10.68ms
+[2018.04.14-05.38.01:249][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_lanturnline59B183DD4D0E03851DCCEB9572DB9DF8.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_lanturnline.uasset'
+[2018.04.14-05.38.01:251][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_lanturnline.uasset
+[2018.04.14-05.38.01:280][254]LogSavePackage: Save=12.19ms
+[2018.04.14-05.38.01:280][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_pillar83045E7A412CA70369CDB58EE8E79AB0.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_pillar.uasset'
+[2018.04.14-05.38.01:282][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_pillar.uasset
+[2018.04.14-05.38.01:309][254]LogSavePackage: Save=11.19ms
+[2018.04.14-05.38.01:309][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_pillar180DF993B4EE22819D97788807BB8B398.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_pillar1.uasset'
+[2018.04.14-05.38.01:311][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_pillar1.uasset
+[2018.04.14-05.38.01:346][254]LogSavePackage: Save=18.51ms
+[2018.04.14-05.38.01:346][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_pillar2F643B06C4F9DD81B8135A5A1BFFF8379.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_pillar2.uasset'
+[2018.04.14-05.38.01:348][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_pillar2.uasset
+[2018.04.14-05.38.01:374][254]LogSavePackage: Save=11.33ms
+[2018.04.14-05.38.01:374][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_pillarpole80E484A74DCECF512FD3DB9B4D51C18E.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_pillarpole.uasset'
+[2018.04.14-05.38.01:376][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_pillarpole.uasset
+[2018.04.14-05.38.01:403][254]LogSavePackage: Save=11.00ms
+[2018.04.14-05.38.01:403][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_pole0FD89DFC4F5564FDD57C7E9CD30B20BA.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_pole.uasset'
+[2018.04.14-05.38.01:404][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_pole.uasset
+[2018.04.14-05.38.01:431][254]LogSavePackage: Save=10.85ms
+[2018.04.14-05.38.01:431][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_railguard7426C9A841883FB8F72045B3FA6BE58A.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_railguard.uasset'
+[2018.04.14-05.38.01:433][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_railguard.uasset
+[2018.04.14-05.38.01:459][254]LogSavePackage: Save=11.78ms
+[2018.04.14-05.38.01:459][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_slidingdoor4B95FBFB4C85B2E7484C4CBBC0C167A3.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_slidingdoor.uasset'
+[2018.04.14-05.38.01:461][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_slidingdoor.uasset
+[2018.04.14-05.38.01:488][254]LogSavePackage: Save=10.97ms
+[2018.04.14-05.38.01:488][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_slidingdoor1CD8A9F5441503CBDF1D37DADFD2953A3.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_slidingdoor1.uasset'
+[2018.04.14-05.38.01:490][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_slidingdoor1.uasset
+[2018.04.14-05.38.01:517][254]LogSavePackage: Save=11.69ms
+[2018.04.14-05.38.01:517][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_Stairs1A518DEE46449F5DD1954EB99D64552A.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Stairs.uasset'
+[2018.04.14-05.38.01:518][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_Stairs.uasset
+[2018.04.14-05.38.01:545][254]LogSavePackage: Save=11.00ms
+[2018.04.14-05.38.01:545][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_stairs136F943F541AB894D226F5D9F20143D34.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_stairs1.uasset'
+[2018.04.14-05.38.01:546][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_stairs1.uasset
+[2018.04.14-05.38.01:574][254]LogSavePackage: Save=11.25ms
+[2018.04.14-05.38.01:574][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_stool7EDB74414FAA19A6D3D8BEAD718BBB41.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_stool.uasset'
+[2018.04.14-05.38.01:576][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_stool.uasset
+[2018.04.14-05.38.01:605][254]LogSavePackage: Save=11.27ms
+[2018.04.14-05.38.01:605][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_window14A02059949CBC21BAA8369BF9D1C6837.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_window1.uasset'
+[2018.04.14-05.38.01:607][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_window1.uasset
+[2018.04.14-05.38.01:637][254]LogSavePackage: Save=11.67ms
+[2018.04.14-05.38.01:637][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_WindowL240631CF456DFDD5A94AD5868C0B73F3.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_WindowL.uasset'
+[2018.04.14-05.38.01:639][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_WindowL.uasset
+[2018.04.14-05.38.01:667][254]LogSavePackage: Save=11.02ms
+[2018.04.14-05.38.01:667][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_windowL1EB0BF21F4B6F6E7C6F94AD978D353E3C.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_windowL1.uasset'
+[2018.04.14-05.38.01:669][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_windowL1.uasset
+[2018.04.14-05.38.01:695][254]LogSavePackage: Save=11.67ms
+[2018.04.14-05.38.01:695][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/Ramen_windowS73D78DDD49C098822602C788BC937196.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_windowS.uasset'
+[2018.04.14-05.38.01:697][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/Ramen_windowS.uasset
+[2018.04.14-05.38.01:723][254]LogSavePackage: Save=10.72ms
+[2018.04.14-05.38.01:723][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/RamenAwning0EE7B4AE4D8D10E65FA99E9FBFC5DBEF.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenAwning.uasset'
+[2018.04.14-05.38.01:725][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenAwning.uasset
+[2018.04.14-05.38.01:739][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Town/RamenHouse/Pieces/RamenRoof" FILE="../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoof.uasset" SILENT=true
+[2018.04.14-05.38.01:751][254]LogSavePackage: Save=10.89ms
+[2018.04.14-05.38.01:751][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/RamenRoof176C5DDA430470729EADFCB6F52D7924.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoof.uasset'
+[2018.04.14-05.38.01:752][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoof.uasset
+[2018.04.14-05.38.01:782][254]LogSavePackage: Save=11.61ms
+[2018.04.14-05.38.01:782][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/RamenRoof_Awning7B21BFB04500F37D2F4789A0781F393B.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoof_Awning.uasset'
+[2018.04.14-05.38.01:784][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoof_Awning.uasset
+[2018.04.14-05.38.01:813][254]LogSavePackage: Save=11.97ms
+[2018.04.14-05.38.01:813][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/RamenRoof_FenceE8B09E15443842CA698DFABC9143CF60.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoof_Fence.uasset'
+[2018.04.14-05.38.01:814][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoof_Fence.uasset
+[2018.04.14-05.38.01:843][254]LogSavePackage: Save=11.69ms
+[2018.04.14-05.38.01:843][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/RamenRoof_FenceMiddle07C236EE470697BEF6CA09B80D6930B7.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoof_FenceMiddle.uasset'
+[2018.04.14-05.38.01:844][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoof_FenceMiddle.uasset
+[2018.04.14-05.38.01:870][254]LogSavePackage: Save=11.30ms
+[2018.04.14-05.38.01:871][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/RamenRoof_FencePost626B7F0941D66972D9FB9D95023EB3FB.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoof_FencePost.uasset'
+[2018.04.14-05.38.01:872][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoof_FencePost.uasset
+[2018.04.14-05.38.01:899][254]LogSavePackage: Save=10.75ms
+[2018.04.14-05.38.01:899][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/RamenRoofFence264D00C94CAC9223B31553B4C102B543.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoofFence.uasset'
+[2018.04.14-05.38.01:901][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoofFence.uasset
+[2018.04.14-05.38.01:928][254]LogSavePackage: Save=10.84ms
+[2018.04.14-05.38.01:928][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/RamenRoofFence1BBB5AC8D4924D0E8BED0FD9B6C92FC93.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoofFence1.uasset'
+[2018.04.14-05.38.01:930][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoofFence1.uasset
+[2018.04.14-05.38.01:957][254]LogSavePackage: Save=10.70ms
+[2018.04.14-05.38.01:957][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/RamenRoofFence2B4EEA077433EEBB8CD5CBBBB3BE2862E.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoofFence2.uasset'
+[2018.04.14-05.38.01:958][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/Art/Town/RamenHouse/Pieces/RamenRoofFence2.uasset
+[2018.04.14-05.38.02:237][254]LogSavePackage: Save=109.93ms
+[2018.04.14-05.38.02:237][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/ThirdPersonExampleMapC57A12D04DD75F295D170F90A3C394B5.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.14-05.38.02:247][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.14-05.38.02:263][254]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.303
+[2018.04.14-05.38.02:399][254]LogSavePackage: Save=108.53ms
+[2018.04.14-05.38.02:399][254]LogSavePackage: Moving '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Saved/ThirdPersonExampleMap_BuiltData4F8CE6614662B9FC6C2F5AA44851B5D0.tmp' to '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.14-05.38.02:403][254]LogSavePackage: Display: Finished SavePackage ../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.14-05.38.05:367][581]LogSlate: Window 'ProjectGoober - Unreal Editor' being destroyed
+[2018.04.14-05.38.05:368][581]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.14-05.38.05:556][582]Cmd: QUIT_EDITOR
+[2018.04.14-05.38.05:590][582]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.14-05.38.05:590][582]LogExit: Preparing to exit.
+[2018.04.14-05.38.06:037][582]LogDirectoryWatcher: A directory notification for 'D:/PersonalProjects/ProjectGoober/ProjectGoober/Content/' was aborted.
+[2018.04.14-05.38.06:059][582]LogExit: Editor shut down
+[2018.04.14-05.38.06:063][582]LogExit: Transaction tracking system shut down
+[2018.04.14-05.38.06:136][582]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.14-05.38.06:137][582]LogDirectoryWatcher: A directory notification for '../../../../../PersonalProjects/ProjectGoober/ProjectGoober/Content/' was aborted.
+[2018.04.14-05.38.06:137][582]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.14-05.38.06:137][582]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.04.14-05.38.06:137][582]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.14-05.38.06:137][582]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.14-05.38.06:137][582]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.14-05.38.06:137][582]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.14-05.38.06:202][582]LogExit: Object subsystem successfully closed.
+[2018.04.14-05.38.06:223][582]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.04.14-05.38.06:228][582]LogD3D11RHI: Shutdown
+[2018.04.14-05.38.06:229][582]LogD3D11RHI: CleanupD3DDevice
+[2018.04.14-05.38.06:235][582]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.14-05.38.06:245][582]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.04.14-05.38.06:245][582]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.04.14-05.38.06:245][582]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.04.14-05.38.06:245][582]LogDirectoryWatcher: A directory notification for 'D:/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.04.14-05.38.06:248][582]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.04.14-05.38.06:248][582]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.04.14-05.38.06:248][582]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.04.14-05.38.06:248][582]LogDirectoryWatcher: A directory notification for 'D:/PersonalProjects/ProjectGoober/ProjectGoober/Content/Collections/' was aborted.
+[2018.04.14-05.38.06:248][582]LogDirectoryWatcher: A directory notification for 'D:/PersonalProjects/ProjectGoober/ProjectGoober/Content/Developers/glash/Collections/' was aborted.
+[2018.04.14-05.38.06:248][582]LogDirectoryWatcher: A directory notification for 'D:/PersonalProjects/ProjectGoober/ProjectGoober/Saved/Collections/' was aborted.
+[2018.04.14-05.38.06:248][582]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.04.14-05.38.06:248][582]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.04.14-05.38.06:248][582]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.04.14-05.38.06:248][582]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.04.14-05.38.06:248][582]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.04.14-05.38.06:249][582]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.04.14-05.38.06:250][582]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.04.14-05.38.06:250][582]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.04.14-05.38.06:250][582]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.04.14-05.38.06:250][582]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.04.14-05.38.06:250][582]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.04.14-05.38.06:250][582]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.04.14-05.38.06:250][582]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.04.14-05.38.06:385][582]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.04.14-05.38.06:385][582]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.04.14-05.38.06:386][582]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.04.14-05.38.06:439][582]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.04.14-05.38.06:439][582]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.04.14-05.38.06:439][582]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.04.14-05.38.06:439][582]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.04.14-05.38.06:439][582]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.04.14-05.38.06:439][582]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.04.14-05.38.06:439][582]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.04.14-05.38.06:439][582]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.04.14-05.38.06:439][582]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.04.14-05.38.06:439][582]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.04.14-05.38.06:440][582]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.04.14-05.38.06:649][582]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.04.14-05.38.06:649][582]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.04.14-05.38.06:649][582]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.04.14-05.38.06:649][582]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.04.14-05.38.06:649][582]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.04.14-05.38.06:649][582]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.04.14-05.38.06:649][582]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.04.14-05.38.06:649][582]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.04.14-05.38.06:649][582]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.04.14-05.38.06:650][582]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.04.14-05.38.06:650][582]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.04.14-05.38.06:650][582]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.04.14-05.38.06:650][582]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.04.14-05.38.06:650][582]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.04.14-05.38.06:650][582]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.04.14-05.38.06:650][582]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.04.14-05.38.06:650][582]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.04.14-05.38.06:654][582]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.04.14-05.38.06:655][582]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.04.14-05.38.06:756][582]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.04.14-05.38.06:979][582]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.04.14-05.38.06:979][582]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.04.14-05.38.06:979][582]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.04.14-05.38.06:979][582]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.04.14-05.38.06:979][582]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.04.14-05.38.06:980][582]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.04.14-05.38.06:980][582]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.04.14-05.38.06:980][582]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.04.14-05.38.06:981][582]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.04.14-05.38.06:981][582]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.04.14-05.38.06:981][582]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.04.14-05.38.06:982][582]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.04.14-05.38.06:982][582]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.04.14-05.38.06:982][582]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.04.14-05.38.06:982][582]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.04.14-05.38.06:988][582]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.04.14-05.38.06:988][582]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.04.14-05.38.06:988][582]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.04.14-05.38.06:990][582]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.04.14-05.38.06:997][582]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.04.14-05.38.06:997][582]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.04.14-05.38.06:997][582]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.04.14-05.38.06:998][582]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.04.14-05.38.07:000][582]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.04.14-05.38.07:001][582]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.04.14-05.38.07:042][582]LogDerivedDataCache: Shutdown
+[2018.04.14-05.38.07:042][582]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.04.14-05.38.07:042][582]LogXGEController: Cleaning working directory: C:/Users/glash/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.04.14-05.38.07:043][582]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.14-05.38.07:044][582]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.14-05.38.07:044][582]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.14-05.38.07:044][582]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B07768F71-4E50-4341-205C-21AEABBF219D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.1-3989454%2B%2B%2BUE4%2BRelease-4.19&UserID=52901a204577657cfc79a3806d2ac230%7Cdc7fcc8cb09c496eaee61fffa0784dbe%7C8e8b911f-c7de-4c20-8448-d68324af95cd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.14-05.38.07:063][582]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.14-05.38.07:064][582]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.14-05.38.07:064][582]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.14-05.38.07:064][582]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.14-05.38.07:064][582]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.14-05.38.07:064][582]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.14-05.38.07:064][582]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.14-05.38.07:064][582]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.14-05.38.07:065][582]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.14-05.38.07:065][582]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.14-05.38.07:065][582]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.14-05.38.07:065][582]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.14-05.38.07:065][582]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.14-05.38.07:065][582]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.14-05.38.07:065][582]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.14-05.38.07:065][582]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.14-05.38.07:065][582]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.14-05.38.07:065][582]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.14-05.38.07:065][582]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.14-05.38.07:070][582]LogExit: Exiting.
+[2018.04.14-05.38.07:080][582]Log file closed, 04/13/18 22:38:07
+>>>>>>> 602bfc8f2e49e03719d3f4dd287e548bb692839b
+>>>>>>> parent of a2f5f5e... Environment
